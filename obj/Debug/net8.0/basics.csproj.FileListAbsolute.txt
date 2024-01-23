@@ -28,3 +28,4 @@ C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\basics\obj\Debug
 C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\basics\obj\Debug\net8.0\basics.pdb
 C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\basics\obj\Debug\net8.0\basics.genruntimeconfig.cache
 C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\basics\obj\Debug\net8.0\ref\basics.dll
+C:\Users\Atakan Berkant Başar\OneDrive\Desktop\Desktop\Asp_net\basics\obj\Debug\net8.0\basics.sourcelink.json
